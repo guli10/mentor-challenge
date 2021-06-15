@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+h1 {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(0, 0%, 100%);
+    padding: 5% 7%;
+}
+
+h4 {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(0, 0%, 100%);
+
+}
+
+h5 {
+    font-family: 'Inter', sans-serif;
+    color: hsla(0, 0%, 100%, 0.6);
+
+}
+
+.container-fluid {
+    width: fit-content;
+    margin: 10% 15%;
+    background-color: hsl(244, 38%, 16%);
+
+}
+
+
+.main-p {
+    font-family: 'Inter', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    padding: 3% 7%;
+}
+
+
+img {
+    object-fit: fill;
+    filter: opacity(0.5) drop-shadow(0 0 0 hsl(277, 64%, 61%));
+}
+
+.stat-headings {
+    padding: 3% 7% 5%;
+
+}
+
+#insights {
+    color: hsl(277, 64%, 61%);
+}
